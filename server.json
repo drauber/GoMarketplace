@@ -23,6 +23,18 @@
       "title": "Nome do produto 04",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
       "price": 80
+    },
+    {
+      "id": "1",
+      "title": "Produto 1",
+      "image_url": "https://placeimg.com/640/480/any",
+      "price": 20
+    },
+    {
+      "id": "2",
+      "title": "Produto 2",
+      "image_url": "https://placeimg.com/640/480/any",
+      "price": 40
     }
   ]
 }
